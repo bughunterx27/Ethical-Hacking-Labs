@@ -45,10 +45,11 @@ Switch to the Kali Linux and open a new terminal window.
      ```bash
      nmap -p 21 <Windows 10 IP address>
 
-```bash
+     ```bash
     Starting Nmap 7.80 ( https://nmap.org ) at 2020-01-22 14:02 EST
     Nmap scan report for 10.0.2.45
     Host is up (0.00051s latency).
- PORT   STATE SERVICE
+    
+    PORT   STATE SERVICE
     21/tcp open  ftp
 
