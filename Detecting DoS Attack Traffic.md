@@ -98,3 +98,9 @@ the visitor of the event (Attacker machine's IP address), sensor name (FTP), and
 Next, analyze the packet dump file containing the traffic captured during the DoS attack. KFSensor stores the packet dump file on **C:\kfsensor\dumps** by default.
 
 Open the Wireshark and click **File > Open** and open the packet dump stored in **C:\kfsensor\dumps**
+
+![image](https://github.com/user-attachments/assets/ebd9fc1a-8980-478f-bb04-b5e5df8cb33b)
+
+Wireshark loads the file and displays the packet's details, as show above.
+
+You can analyze the packets to get information related to headers of the packets, source IP addresses, and so on.
