@@ -25,8 +25,10 @@ Kali Linux virtual machine
 
 5. Click next and Finish the wizard:
 ![image](https://github.com/user-attachments/assets/6f46e28b-981f-4851-b2e1-4774f8f8b149)
+
 On the left panel you will see the FTP icon is green, and the FTP section is empty, it means currently there is no traffic through port 21.
 ![image](https://github.com/user-attachments/assets/59290359-e1b3-4891-8748-94e6ff07d150)
+
 Now, the KFSensor is configured to detect the DoS attacks.
 
 ## Perform DoS Attack
