@@ -53,3 +53,20 @@ Switch to the Kali Linux and open a new terminal window.
     PORT   STATE SERVICE
     21/tcp open  ftp
 
+As you can see above, the port 21 is open.
+
+Let's use this port to flood the target:
+
+
+2. Perform SYN flooding by typing:
+   ```bash
+   hping3 -d 100 -S -p 21 --flood <Windows 10 IP Address>
+
+After you enter the command, switch to the Windows 10, observe that the machine is almost frozen, which means that the resources of Windows are completely exhausted. This means that the DoS attack is being successfully performed.
+
+Switch back to the Kali Linux and press Ctrl+C to terminate SYN flooding.
+
+![image](https://github.com/user-attachments/assets/62aa0783-8096-47ee-b7de-989b4d928ccb)
+
+
+   
