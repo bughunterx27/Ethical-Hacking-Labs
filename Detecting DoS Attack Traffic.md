@@ -18,10 +18,14 @@ Kali Linux virtual machine
 
 3. Click on ## Settings on the top menu and Set Up Wizard:
   ![image](https://github.com/user-attachments/assets/a4125ae8-0ccc-4941-b34a-3cd8f380f3d4)
-   Leave the options as default until and stop on DoS options.
+
+Leave the options as default until and stop on DoS options.
 
 4.Select Cautious from Denial of Service Options drop-down list, and select Enable packet dump files from the Network Protocol Analyzer drop-down list:
+
 ![image](https://github.com/user-attachments/assets/20eef005-bf19-4f25-91da-d6b747842abe)
+
+
 
 5. Click next and Finish the wizard:
 ![image](https://github.com/user-attachments/assets/6f46e28b-981f-4851-b2e1-4774f8f8b149)
