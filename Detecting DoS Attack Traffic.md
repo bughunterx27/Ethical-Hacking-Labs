@@ -16,6 +16,6 @@ Kali Linux virtual machine
 
 2. Launch the KFSensor as Administrator.
 
-3. Click on Settings on the top menu and Set Up Wizard:
+3. Click on ## Settings on the top menu and Set Up Wizard:
   ![image](https://github.com/user-attachments/assets/a4125ae8-0ccc-4941-b34a-3cd8f380f3d4)
 
