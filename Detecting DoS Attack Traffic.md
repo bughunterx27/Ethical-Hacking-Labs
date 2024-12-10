@@ -16,7 +16,7 @@ Kali Linux virtual machine
 
 2. Launch the KFSensor as Administrator.
 
-3. Click on ## Settings on the top menu and Set Up Wizard:
+3. Click on **Settings** on the top menu and Set Up Wizard:
   ![image](https://github.com/user-attachments/assets/a4125ae8-0ccc-4941-b34a-3cd8f380f3d4)
 
 Leave the options as default until and stop on DoS options.
@@ -70,3 +70,31 @@ Switch back to the Kali Linux and press Ctrl+C to terminate SYN flooding.
 
 
    
+## Detecting DoS Attack
+
+Switch to the **Windows** 10, you should now be able to access it.
+
+Now the FTP icon in the left pane changes to red, and the FTP section in the right pane is flooded with events.
+
+![image](https://github.com/user-attachments/assets/51910167-dc87-4f13-bd26-80c272f7456b)
+
+Scroll down and try to find an event named DOS Attack
+
+![image](https://github.com/user-attachments/assets/74d21933-623a-42e5-aeb3-23b65a99c9f9)
+
+
+This concludes that KFSensor has detected the DoS attack.
+
+Choose another random event and double click it to show the event details.
+
+On the Event window, which contains the event summary, you can see the severity level of the event (High), the description of the event (Syn Scan), 
+the visitor of the event (Attacker machine's IP address), sensor name (FTP), and so on as you can see below.
+
+
+![image](https://github.com/user-attachments/assets/5717fa5f-59ad-44fb-aa9d-2545da93dc4d)
+
+## Analyze Packet Dump on Wireshark
+
+Next, analyze the packet dump file containing the traffic captured during the DoS attack. KFSensor stores the packet dump file on **C:\kfsensor\dumps** by default.
+
+Open the Wireshark and click **File > Open** and open the packet dump stored in **C:\kfsensor\dumps**
