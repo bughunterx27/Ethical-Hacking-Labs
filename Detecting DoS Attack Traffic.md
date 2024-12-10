@@ -59,3 +59,13 @@ PORT   STATE SERVICE
 
 ```bash
 hping3 -d 100 -S -p 21 --flood <Windows 10 IP Address>
+
+After you enter the command, switch to the Windows 10, observe that the machine is almost frozen, which means that the resources of Windows are completely exhausted. This means that the DoS attack is being successfully performed.
+
+Switch back to the Kali Linux and press Ctrl+C to terminate SYN flooding.
+
+
+![image](https://github.com/user-attachments/assets/02f9ea62-ad64-46d4-a0e0-96e9a133de7e)
+
+
+## Detecting DoS Attack
