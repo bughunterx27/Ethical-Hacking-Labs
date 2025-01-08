@@ -1,4 +1,5 @@
-![net](https://github.com/user-attachments/assets/1cd2bc16-471f-4341-8e37-c541ad8b7d8f)
+![image](https://github.com/user-attachments/assets/e11f386e-572e-4466-adf7-48c1ab9866ec)
+
 
 
 # Network-Security-Checklist
