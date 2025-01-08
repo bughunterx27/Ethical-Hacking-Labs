@@ -1,4 +1,6 @@
-![1673961840526](https://github.com/bughunterx27/Ethical-Hacking-Labs/Network-Security-Checklist/assets/37951691/c3f82ff9-87a2-4ec9-b1f1-528e2a35c6e8)
+https://github.com/bughunterx27/Ethical-Hacking-Labs/Network-Security-Checklist/assets/37951691/c3f82ff9-87a2-4ec9-b1f1-528e2a35c6e8
+![image](https://github.com/user-attachments/assets/09be9a13-b8b2-47c4-bb2d-ddad93a3eed7)
+
 # Network-Security-Checklist
 
 Safeguard your digital fortress: utilize firewalls, IDS/IPS, and secure VPNs. Enforce strong passwords, MFA, and least privilege access. Classify and encrypt sensitive data, and back it up regularly. Maintain security hygiene with software updates, anti-malware, log monitoring, user training, and an incident response plan. Consider network segmentation, strong encryption algorithms, and regular security assessments for further fortification. Remember, vigilance is key in the ever-evolving battle against cyber threats.
