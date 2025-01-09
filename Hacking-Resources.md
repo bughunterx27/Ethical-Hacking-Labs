@@ -1,3 +1,6 @@
+            ![image](https://github.com/user-attachments/assets/cafc4499-acb0-4001-bcc9-001222a4cd0b)
+
+
 # Hacking Resources
 
 A challenge that takes 10 hours to solve, takes 10 minutes to explain..
