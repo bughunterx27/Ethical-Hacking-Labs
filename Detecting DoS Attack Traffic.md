@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/56b46cb2-02a5-44f7-a7f3-459dfa1089aa)
+![image](https://github.com/user-attachments/assets/3510bd00-2dff-44f7-8166-f08b8d3380a9)
+
 
 
 # Detecting DoS Attack traffic
