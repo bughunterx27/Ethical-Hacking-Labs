@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/56b46cb2-02a5-44f7-a7f3-459dfa1089aa)
+
+
 # Detecting DoS Attack traffic
 KFSensor is a Windows-based honeypot IDS. It acts as a honeypot to attract and detect hackers and worms by simulating vulnerable system services and Trojans. 
 By acting as a decoy server, it can divert attacks form critical system and provides a higher level of information than firewalls and NIDS alone.
